@@ -38,12 +38,23 @@ https://github.com/rc-mini4wd-workshop-2017
 
 * RCミニ四駆大会＠横浜ガジェットまつり2016
 
+- 社内のRaspberry pi勉強会メンバーが参加者
 - ベースにタミヤのワイルドミニ四駆シリーズを使用
 - 共通のステアリング機構を使用
 - 別々の電子部品を使用
 - 別々のソフトウェアを作成
 
 これを使ったRCミニ四駆の大会を開催
+
+.image images/ygf2016.png _ 800
+
+* RCミニ四駆大会＠横浜ガジェットまつり2016
+
+- 子供に評判が良かった
+- モノ作り好きの大人からも評判が良かった
+- 自分らが楽しかった
+
+.image images/ygf2016_children.png _ 400
 
 * 今年度の活動企画
 
@@ -53,12 +64,21 @@ https://github.com/rc-mini4wd-workshop-2017
 
 頑張れば自分でも作れそう
 
+.image images/arduino_ardublock.png _ 400
+.image images/ardublock_diagram.jpg _ 400
+
+
+* RCミニ四駆ワークショップ＠横浜ガジェットまつり2017
+
 🔧ワークショップの概要
 
 - 日時：11/17（金）16:00-20:00, 11/18（土）10:00-17:00
 - 対象：小学校高学年以上
 - 人数：3〜4人/1回
 - 時間：1時間/1回
+
+.image images/ardublock_with_children.png _ 400
+
 
 * RCミニ四駆ワークショップ＠横浜ガジェットまつり2017
 
@@ -69,3 +89,5 @@ https://github.com/rc-mini4wd-workshop-2017
 3. RCミニ四駆ワークショップ（20分）
 4. RCミニ四駆大会（25分）
 　横浜のミニチュアコースを走るコース
+
+.image images/yokohama.jpg _ 400
